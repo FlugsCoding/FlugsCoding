@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, the name's flugs👋 </h1>
 
-I am a young web developer based in the United Kingdom. My proficiency lies in front-end development, however, I have worked with multiple back-end coding languages and continue to do so.
+I am a young web developer based in the United Kingdom. My prominent skill lies in front-end development, however, I have worked with multiple back-end coding languages and frameworks and continue to do so actively.
 
 Some of the languages/frameworks I have completed projects in consist of:
 - Python
@@ -17,4 +17,4 @@ Here is some basic information about me:
     - Discord: flugs#9201
     - Steam: https://steamcommunity.com/id/flugs_/
     - EMail (inactive): mailto:flugscod@gmail.com
-- ⚡ Fun fact: I started coding at age 12!
+- ⚡ Fun fact: I started coding at the age of 12!
