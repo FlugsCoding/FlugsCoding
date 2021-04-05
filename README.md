@@ -9,6 +9,8 @@ Some of the languages/frameworks I have completed projects in consist of:
 - Django
 - And more.
 
+A large majority of my GitHub contributions over time are on private repositories, and my portfolio is currently not up because I generally haven't needed it. If you would like to view any of my work, contact me via any of the methods provided below.
+
 Here is some basic information about me:
 
 - 🔭 I’m currently working on a few small-scale web projects. I am not taking projects from people I do not already work with.
