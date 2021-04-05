@@ -6,6 +6,7 @@ Some of the languages/frameworks I have completed projects in consist of:
 - Python
 - JavaScript
 - Laravel
+- HTML/CSS
 - Django
 - And more.
 
@@ -13,7 +14,7 @@ A large majority of my GitHub contributions over time have been on private repos
 
 Here is some basic information about me:
 
-- 🔭 I’m currently working on a few small-scale web projects. I am not taking projects from people I do not already work with.
+- 🔭 I’m currently working on a few small-scale web projects. I am not pursuing projects from/with people I do not already work with.
 - 🌱 I am not currently learning anything new, however, I am always refreshing my knowledge of the things I know.
 - 📫 How to reach me:
     - Discord: flugs#9201
