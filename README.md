@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"> Hey there, the name's flugs👋 </h1>
 
-<!--
-**FlugsCoding/FlugsCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a young web developer based in the United Kingdom. My proficiency lies in front-end development, however, I have worked with multiple back-end coding languages and continue to do so.
 
-Here are some ideas to get you started:
+Some of the languages/frameworks I have completed projects in consist of:
+- Python
+- JavaScript
+- Laravel
+- Django
+- And more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is some basic information about me:
+
+- 🔭 I’m currently working on a few small-scale web projects. I am not taking projects from people I do not already work with.
+- 🌱 I am not currently learning anything new, however, I am always refreshing my knowledge of the things I know.
+- 📫 How to reach me:
+    - Discord: flugs#9201
+    - Steam: https://steamcommunity.com/id/flugs_/
+    - EMail (inactive): mailto:flugscod@gmail.com
+- ⚡ Fun fact: I started coding at age 12!
